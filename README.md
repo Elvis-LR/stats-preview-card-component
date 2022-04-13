@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site URL:](hhttps://elvis-lr.github.io/stats-preview-card-component/)
+- [Live Site URL](https://elvis-lr.github.io/stats-preview-card-component/)
 
 
 ### Built with
