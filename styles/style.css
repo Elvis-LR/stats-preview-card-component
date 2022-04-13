@@ -10,8 +10,7 @@
     text-decoration: none;
 }
 body{
-    /* font-family: 'Inter', sans-serif;
-    font-family: 'Lexend Deca', sans-serif; */
+
     font-size: 15px;
     background-color: hsl(233, 47%, 7%);
     text-align: center;
@@ -100,7 +99,6 @@ li>p{
     .mainimg{
         background-image: url(../images/image-header-desktop.jpg);
         background-repeat: no-repeat;
-        back;
         min-width: 45%;
         height: 100%;
         border-top-right-radius: 0.5rem;
@@ -115,7 +113,6 @@ li>p{
     }
     .desk{
         margin: 5em;
-        padding-left: ;
     }
     h1{
         font-size: 2.5em;
